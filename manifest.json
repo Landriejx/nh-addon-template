@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
-  "version": "0.0.0",
-  "owmlVersion": "2.1.0",
+  "author": "Laundryjx",
+  "name": "Hazy Dreams",
+  "uniqueName": "Laundryjx.HazyDreams",
+  "version": "1.0.0",
+  "owmlVersion": "2.6.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
